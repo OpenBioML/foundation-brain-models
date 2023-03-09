@@ -1,1 +1,1 @@
-# brain-foundation-models
+# foundation-brain-models
